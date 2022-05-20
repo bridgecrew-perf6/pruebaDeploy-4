@@ -1,7 +1,8 @@
-import logo from './logo.svg';
+import logo from './img/trifuerza2.png';
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
